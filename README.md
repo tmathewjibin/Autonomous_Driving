@@ -1,2 +1,2 @@
 # Autonomous_Driving
-Progrms to perform self driving funtion of a car
+Programs to perform self driving functions of a car
