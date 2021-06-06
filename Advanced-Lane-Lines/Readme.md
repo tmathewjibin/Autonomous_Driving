@@ -1,4 +1,4 @@
-# **Advanced Lane Finding **
+# **Advanced Lane Finding**
 
 The goal of this project is to identify road lanes in a video stream of a forward facing camera mounted c on a moving vehicle.
 
